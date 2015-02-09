@@ -1,8 +1,8 @@
-This PHP library for PubSubHubbub was written by Josh Fraser (joshfraser.com) and is released under the Apache 2.0 License
+﻿This PHP library for PubSubHubbub was written by Josh Fraser (joshfraser.com) and is released under the Apache 2.0 License
 
 Usage:
 // specify which hub you want to use. in this case we'll use the demo hub on app engine.
-$hub_url = "http://pubsubhubbub.appspot.com/";
+$hub_url = "https://pubsubhubbub.appspot.com/";
 
 // create a new pubsubhubbub publisher
 $p = new Publisher($hub_url);
