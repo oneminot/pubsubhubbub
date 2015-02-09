@@ -3,7 +3,7 @@ Note:
 
 This document is old.  Instead, see:
 
-http://pubsubhubbub.googlecode.com/svn/trunk/pubsubhubbub-core-0.1.html
+https://pubsubhubbub.googlecode.com/svn/trunk/pubsubhubbub-core-0.1.html
 
 
 
